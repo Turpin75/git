@@ -1,2 +1,2 @@
 # git
-test sur git
+readme
